@@ -27,9 +27,6 @@ to use this aoplication you will need to open your integrated terminal in your c
 
 ## Tests
 
-https://go.screenpal.com/watch/cZivVpVPmDb
-
-
 
 
 https://github.com/user-attachments/assets/2b09c6d0-abf7-438a-8585-031010d6be44
