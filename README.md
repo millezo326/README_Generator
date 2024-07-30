@@ -30,5 +30,11 @@ to use this aoplication you will need to open your integrated terminal in your c
 https://go.screenpal.com/watch/cZivVpVPmDb
 
 
+
+
+https://github.com/user-attachments/assets/2b09c6d0-abf7-438a-8585-031010d6be44
+
+
+
 ## Questions
 If you have any questions, you can reach me at [millezo2000@gmail.com](mailto:millezo2000@gmail.com). You can also find more of my work at [millezo326](https://github.com/millezo326) on Github.
